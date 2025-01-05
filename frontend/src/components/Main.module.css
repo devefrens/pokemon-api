@@ -1,0 +1,18 @@
+.card {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 10px;
+    width: 150px;
+    margin: 5px; /* Espaço entre os cards */  
+    text-align: center;      
+}
+
+.container-card {
+    display: flex;
+    justify-content: center; /* Centraliza os itens na linha */
+    align-items: flex-start; /* Alinha os itens ao topo */
+    flex-wrap: wrap; /* Permite quebra para uma nova linha */
+    gap: 8px; /* Espaçamento entre os elementos */
+    margin: 0 auto;
+    max-width: 1600px; /* Limita a largura do container */
+}
