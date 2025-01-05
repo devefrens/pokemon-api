@@ -6,6 +6,7 @@
 - Express
 - TypeScript
 - React JS
+- VITE
 - CSS
 
 ## Como Rodar o Projeto:
