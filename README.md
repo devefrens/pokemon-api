@@ -5,7 +5,8 @@
 - Node.js
 - Express
 - TypeScript
-- React
+- React JS
+- CSS
 
 ## Como Rodar o Projeto:
 
@@ -13,7 +14,7 @@
 1. Clone o repositório:
    ```bash
    git clone https://github.com/devefrens/pokemon-api/
-   cd pokemon-api/backend
+   cd api-pokedex/backend
 
 2. Instale as dependências:
    ```bash
@@ -26,7 +27,7 @@
 ### Frontend:
 1. Navegue até a pasta do frontend:
    ```bash
-   cd pokemon-api/frontend
+   cd api-pokedex/frontend
    
 2. Instale as dependências:
    ```bash
